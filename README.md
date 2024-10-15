@@ -1,4 +1,4 @@
-# About me
+# Hitesh Seth
 
 **Salesforce**: 
 - I am the Chief Architect for Financial Services & Insurance. I am responsible for the solution architecture for our products, working closely with key customers around the world. My primary focus is on integrating customer-facing CRM capabilities—such as Sales, Marketing, Onboarding, and Service—with Data, Predictive and Generative AI platforms.
