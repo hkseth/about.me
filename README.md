@@ -1,12 +1,5 @@
 # About me
 
-
-Hi, 
-
-I would like to chat with you about an executive education program that would fit for me. 
-
-Here is a quick background about me:
-
 **Salesforce**: 
 - I am the Chief Architect for Financial Services & Insurance. I am responsible for the solution architecture for our products, working closely with key customers around the world. My primary focus is on integrating customer-facing CRM capabilities—such as Sales, Marketing, Onboarding, and Service—with Data, Predictive and Generative AI platforms.
 - In this role, my team partners with our key Financial Services customers (globally) to understand their key CRM/Data/AI implementations, map out current-state and target state architecture, identify challenges and opportunities, and design 6-18 month roadmaps. We work to optimize the implementation and integration of Salesforce technologies with core systems.
