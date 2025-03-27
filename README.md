@@ -6,6 +6,7 @@
 - With aa specific focus on Data & AI/GenAI, I understand the current capabilities/architecture of the entire enterprise, with a specific emphasis on Data & AI platforms, and layout a target state architecture of how predictive & Generative AI, particularly Agents, capabilities can be leveraged to power the customer and colleague facing experiences. 
 - In addition to Retail & Commercial Banking, Payments, I am currently focusing a lot on Wealth Management, Investment Banking, Capital Markets, Insurance & Fintech.
 - As the voice of the customer, I amplify their needs, becoming the connective tissue between customers and the  multiple Salesforce product teams, helping shape our product development and integration strategies.
+- I work closely with Salesforce Ventures teams for investing, acquisition and integration of startups/Fintechs to shape the product and partner ecosystem integrqtion roadmap. 
 - I joined Salesforce as I wanted to contribute and fast learn about other Financial Services (outside of retail banking/financial services, payments, card network, merchant services, loyalty - which I am a true expert of) but I wanted learn Private Equity, Capital Markets, Investment Banking and other regulated industries (Life Sciences, Healthcare - given my desire to contribute in medicine and my experience at IQVIA) a lot.
 
 **JPMorgan Chase**: 
