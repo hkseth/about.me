@@ -16,7 +16,7 @@ Consumer and Community Banking (CCB) Data Platforms and products. This integrate
 - This was my second innings at Chase (during my first one 2003-06,  I was involved in largest FS merger of Bank One & JPMC, Online Banking, Payments, Middleware, Channel Convergence etc..)
 
 **IQVIA**:
-- Before joining Chase, I ran the Architecture, AI/ML and UI/UX Design team at IQVIA (R&D) and was keenly involved in running Clinical Trial platforms for several sponsors (in context of COVID Vaccine trails) and other aspects of the R&D capabilities.
+- I ran the Architecture, AI/ML and UI/UX Design team at IQVIA (R&D) and was keenly involved in running Clinical Trial platforms for several sponsors (in context of COVID Vaccine trails) and other aspects of the R&D capabilities.
 
 **American Express**: 
 - I spent 14 years at American Express running architecture for several businesses/units including Global Commercial Payments, Marketing, Customer 360, Customer Acquisitions, Global Credit & Fraud Risk Management, Salesforce, AskAmex, Big Data & AI/ML Platform capabilities etc.
