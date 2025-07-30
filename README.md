@@ -1,6 +1,6 @@
 # Hitesh Seth
 
-TLDR;
+**TL;DR**;
 - These days, I am laser focused on getting Agents (of course with a core foundation of Data and Integrations - APIs/MCPs) live at scale in production with Regulated Industries (while I focus primarily today on Financial Services & Insurance), I would love to contribute again to Life Sciences & Healthcare. 
 
 **Salesforce**: 
