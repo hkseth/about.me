@@ -1,5 +1,8 @@
 # Hitesh Seth
 
+TLDR;
+- These days, I am laser focused on getting Agents (of course with a core foundation of Data and Integrations - APIs/MCPs) live at scale in production with Regulated Industries (while I focus primarily today on Financial Services & Insurance), I would love to contribute again to Life Sciences & Healthcare. 
+
 **Salesforce**: 
 - I am the Chief Architect for Financial Services & Insurance. I am responsible for the solution architecture for our products, working closely with key customers around the world. My primary focus is on integrating customer-facing CRM capabilities—such as Sales, Marketing, Onboarding, and Servicing (Contact Center) with Data, AI/ML and GenAI/Agent platforms. 
 - In this role, my team partners with our key Financial Services customers (globally) to understand their key CRM/Data/AI implementations, map out current-state and target state architecture, identify challenges and opportunities, and design 6-18 month roadmaps. We work to optimize the implementation and integration of Salesforce technologies with core systems.
