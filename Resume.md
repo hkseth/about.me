@@ -3,7 +3,7 @@
 
 ## TL;DR
 - I architect global large-scale technology transformations. I thrive in complexity ⇒ I have a passionate drive to simplify it.
-- I am an expert in applying Data & AI platforms at scale, in regulated industries.
+- I am an expert in applying CRM, Data & AI platforms at scale, in regulated industries.
 - Currently, laser-focused on getting CRM (Sales, Servicing, Marketing) Agentic capabilities, built on a Data & AI foundation, live at scale in production within the largest/complex customers in regulated industries - Financial Services & Insurance, and to some extent Life Sciences & Healthcare.
 - **Mentor**: Very passionate about learning/teaching, particualarly Women in Computing after my experiences [attending Grace Hopper Conference](https://www.linkedin.com/pulse/what-i-learnt-grace-hopper-celebration-2018-hitesh-seth/) and interacting with my daughter and her circle of friends...
 - I am a grounded, hands-on technologist, a rapid and forever learner, a strategic big-picture thinker, and a pragmatic innovator who can rapidly crystallize concepts into products and platforms. I am passionate about learning, building, coaching, and enabling high-performance teams to thrive in an agile product-centric culture.
