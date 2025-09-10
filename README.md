@@ -42,8 +42,8 @@
   - [Systems and methods for processing transactions using multiple budgets (US 8,073,772)](https://patents.google.com/patent/US8073772B2/en)
   - [Systems and methods for transaction processing based upon an overdraft scenario (US 8,190,514)](https://patents.google.com/patent/US8190514B2/en)
   - [Systems, methods, and computer products for processing payments using a proxy card (US 9,367,834)](https://patents.google.com/patent/US9367834B2/en)
-- **Mentor**: Very passionate about learning/teaching, particualarly Women in Computing after my experiences attending Grace Hopper Conference and interacting with my daughter and her circle of friends...
-- **Author**: Published a couple of books (Special Edition using Java Beans and Microsoft .NET KickStart) and used to run XML Journal and chaired conferences in XML, Web Services, Telephony, Mobile during 1996-2001. I would love to write more...
+- **Mentor**: Very passionate about learning/teaching, particualarly Women in Computing after my experiences [attending Grace Hopper Conference](https://www.linkedin.com/pulse/what-i-learnt-grace-hopper-celebration-2018-hitesh-seth/) and interacting with my daughter and her circle of friends...
+- **Author**: Published a couple of books [Special Edition using Java Beans](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604) and [Microsoft .NET KickStart] (https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748/) and used to run XML Journal and chaired conferences in XML, Web Services, Telephony, Mobile during 1996-2001. Currently working on a book - "GenAI for Executives".
 - **IIT Kanpur**: Graduated from IIT Kanpur in 1996, in Chemical Engineering & Computer Science and have recently become quite active in Pan IIT alumni network.
 
 **Current Speaking Engagements**
