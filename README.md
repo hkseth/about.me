@@ -1,4 +1,5 @@
 # Hitesh Seth
+[![Linkedin](https://i.sstatic.net/gVE0j.png)] (https://www.linkedin.com/in/hiteshseth)
 
 **TL;DR**;
 - I am laser-focused on getting CRM (Sales, Servicing, Marketing) Agentic capabilities, built on a Data & AI foundation, live at scale in production within the largest/complex customers in regulated industries - Financial Services & Insurance, and to some extent Life Sciences & Healthcare.
@@ -26,8 +27,8 @@
 
 **American Express**: 
 - I spent 14 years at American Express running architecture for several businesses/units including Global Commercial Payments, Marketing, Customer 360, Customer Acquisitions, Global Credit & Fraud Risk Management, Salesforce, AskAmex, Big Data & AI/ML Platform capabilities etc.
-- I also supported the technology due diligence for many M&A/Strategic Investments, working with startups like Stripe, iZettle, etc. and acquisitions of adjacent capabilities (Loyalty Partner - collation loyalty, P2P/Mobile Payments - fraud risk management - Accertify, Resy & Cake Technologies - premium dining, LoungeBuddy - airport lounges).
-- I was the technical lead of the spinoff of American Express Business Travel. I worked with several adjacent mobile payments players in China, India and Europe. AmEx was an early adopter of Big Data (Hadoop technologies) and I have been engaged in productionalizing Data/ML capabilities at scale since 2009 or so when we implemented our first set of ML models (Random Forrests, gradient boosting, etc...)
+- AmEx was an early adopter of Big Data (Hadoop technologies) and I have been engaged in productionalizing Data/ML capabilities at scale since 2009 or so when we implemented our first set of ML models (Random Forrests, gradient boosting, etc...) all the way to scaling many large scale champion/challenge models at scale supporting marketing, credit/fraud risk and servicing capabilities.
+- Led the technology due diligence for many M&A/Strategic Investments, working with startups like Stripe, iZettle, etc. and acquisitions of adjacent capabilities (Loyalty Partner - collation loyalty, P2P/Mobile Payments - fraud risk management - Accertify, Resy & Cake Technologies - premium dining, LoungeBuddy - airport lounges). Led the technolog spinoff of American Express Business Travel. I worked with several adjacent mobile payments players in China, India and Europe.
 
 **Technology Focus Areas** 
 - **Data/AI/ML/GenAI/Agent Frameworks**: I’m deeply passionate about modern data platforms, data architecture and engineering, and the transformative power of AI/ML, GenAI, and agent-based systems. I’ve applied this expertise in highly complex and regulated industries such as financial services and medicine.
