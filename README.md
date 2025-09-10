@@ -39,7 +39,7 @@
 - **IIT Kanpur**: Graduated from IIT Kanpur in 1996, in Chemical Engineering & Computer Science and have recently become quite active in Pan IIT alumni network.
 
 **Current Speaking Engagements**
-- Sep 2025: [AI Infra Summit|https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo] - Successfully Deploying GenAI in highly Regulated Industries
-- Oct 2025: Innodata GenAI Summit|https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda] - Defining and ensuring "high-quality data” in the context of modern AI systems
-- Oct 2025: [Quantum + AI 2.0 2025|https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA] - Beyond PQC: Quantum Computing & the future of Blockchain Security. 
-- Nov 2025: [AI Driven Drug Discovery Summit|https://www.aidrivendrugdevelopment.com/events/ai-drug-discovery-development-summit]
+- Sep 2025: [AI Infra Summit](https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo) - Successfully Deploying GenAI in highly Regulated Industries
+- Oct 2025: [Innodata GenAI Summit](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda) - Defining and ensuring "high-quality data” in the context of modern AI systems
+- Oct 2025: [Quantum + AI 2.0 2025](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA) - Beyond PQC: Quantum Computing & the future of Blockchain Security. 
+- Nov 2025: [AI Driven Drug Discovery Summit](https://www.aidrivendrugdevelopment.com/events/ai-drug-discovery-development-summit)
