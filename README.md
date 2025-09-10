@@ -1,7 +1,7 @@
 # Hitesh Seth
 ![Linkedin](https://i.sstatic.net/gVE0j.png) https://www.linkedin.com/in/hiteshseth
 
-## TL;DR**
+## TL;DR
 - Currently, I am laser-focused on getting CRM (Sales, Servicing, Marketing) Agentic capabilities, built on a Data & AI foundation, live at scale in production within the largest/complex customers in regulated industries - Financial Services & Insurance, and to some extent Life Sciences & Healthcare.
   
 ## Salesforce
