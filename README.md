@@ -48,7 +48,7 @@
 - **Author**: Published a couple of books [Special Edition using Java Beans](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604) and [Microsoft .NET KickStart] (https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748/) and used to run XML Journal and chaired conferences in XML, Web Services, Telephony, Mobile during 1996-2001. Currently working on a book - "GenAI for Executives".
 - **IIT Kanpur**: Graduated from IIT Kanpur in 1996, in Chemical Engineering & Computer Science and have recently become quite active in Pan IIT alumni network.
 
-**Current Speaking Engagements**
+### Current Speaking Engagements
 - Sep 2025: [AI Infra Summit](https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo) - Successfully Deploying GenAI in highly Regulated Industries
 - Oct 2025: [Innodata GenAI Summit](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda) - Defining and ensuring "high-quality data” in the context of modern AI systems
 - Oct 2025: [Quantum + AI 2.0 2025](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA) - Beyond PQC: Quantum Computing & the future of Blockchain Security. 
