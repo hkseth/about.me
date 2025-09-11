@@ -1,5 +1,10 @@
 # Hitesh Seth
-https://www.linkedin.com/in/hiteshseth | +1-609-610-4861  | hitesh.seth@gmail.com
+- https://www.linkedin.com/in/hiteshseth 
+- +1-609-610-4861
+- hitesh.seth@gmail.com
+- https://substack.com/@hiteshseth
+- http://x.com/@hitech
+- https://medium.com/@hitech
 
 ## TL;DR
 - I architect global large-scale technology transformations. I thrive in complexity ⇒ I have a passionate drive to simplify it.
