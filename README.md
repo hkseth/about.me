@@ -58,7 +58,9 @@
 - **Author**: Published a couple of books [Special Edition using Java Beans](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604) and [Microsoft .NET KickStart] (https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748/) and used to run XML Journal and chaired conferences in XML, Web Services, Telephony, Mobile during 1996-2001. Currently working on a book - "GenAI for Executives".
 - **IIT Kanpur**: Graduated from IIT Kanpur in 1996, in Chemical Engineering & Computer Science and have recently become quite active in Pan IIT alumni network.
 
-### Current Speaking Engagements
+### Recent Speaking Engagements
+- Sep 2023: [Current 2023](https://www.confluent.io/events/current/2023/kafka-flink-and-beyond/) - Keynote: Kafka, Flink & Beyond
+- Oct 2023: [Ab Initio Customer Spotlight 2023] - Fireside Chat
 - Oct 2024: [Chief AI Officer Summit, Boston](https://www.linkedin.com/posts/hiteshseth_i-am-speaking-at-the-chief-ai-officer-summit-activity-7251900596234940417-G45R) - Generative AI in Regulated Industries
 - Nov 2024: [BIAN Banking Summit, London](https://www.linkedin.com/posts/hiteshseth_the-first-roundtables-have-been-announced-activity-7258130358443913217-Zi_6) - API centric platform approach as the foundation for Generative AI
 - Sep 2025: [AI Infra Summit](https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo) - Successfully Deploying GenAI in highly Regulated Industries
