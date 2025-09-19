@@ -68,3 +68,12 @@
 - Oct 2025: [Innodata GenAI Summit](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda) - Defining and ensuring "high-quality data” in the context of modern AI systems
 - Oct 2025: [Quantum + AI 2.0 2025](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA) - Beyond PQC: Quantum Computing & the future of Blockchain Security. 
 - Nov 2025: [AI Driven Drug Discovery Summit](https://www.aidrivendrugdevelopment.com/events/ai-drug-discovery-development-summit)
+
+### Patents
+- [Systems and methods for transaction processing using a smartcard (US 8,851,369)](https://patents.google.com/patent/US8851369B2/en)
+- [Systems and methods for delivering tailored content based upon a consumer profile (US 9,514,468)](https://patents.google.com/patent/US9514468B2/en)
+- [Systems and methods for maximizing a rewards accumulation strategy during transaction processing (US 8,180,706)](https://patents.google.com/patent/US8180706B2/en)
+- [Systems and methods for point of interaction based policy routing of transactions (US 8,195,565)](https://patents.google.com/patent/US8195565B2/en)
+- [Systems and methods for processing transactions using multiple budgets (US 8,073,772)](https://patents.google.com/patent/US8073772B2/en)
+- [Systems and methods for transaction processing based upon an overdraft scenario (US 8,190,514)](https://patents.google.com/patent/US8190514B2/en)
+- [Systems, methods, and computer products for processing payments using a proxy card (US 9,367,834)](https://patents.google.com/patent/US9367834B2/en)
