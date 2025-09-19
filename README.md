@@ -64,6 +64,7 @@
 - Oct 2024: [Chief AI Officer Summit, Boston](https://www.linkedin.com/posts/hiteshseth_i-am-speaking-at-the-chief-ai-officer-summit-activity-7251900596234940417-G45R) - Generative AI in Regulated Industries
 - Nov 2024: [BIAN Banking Summit, London](https://www.linkedin.com/posts/hiteshseth_the-first-roundtables-have-been-announced-activity-7258130358443913217-Zi_6) - API centric platform approach as the foundation for Generative AI
 - Sep 2025: [AI Infra Summit](https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo) - Successfully Deploying GenAI in highly Regulated Industries
+- Sep 2025: [AI Tech Leaders' Club](https://luma.com/mq1948jl) - Enterprise AI & Operational Efficiency
 - Oct 2025: [Innodata GenAI Summit](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda) - Defining and ensuring "high-quality data” in the context of modern AI systems
 - Oct 2025: [Quantum + AI 2.0 2025](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA) - Beyond PQC: Quantum Computing & the future of Blockchain Security. 
 - Nov 2025: [AI Driven Drug Discovery Summit](https://www.aidrivendrugdevelopment.com/events/ai-drug-discovery-development-summit)
