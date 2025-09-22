@@ -1,30 +1,28 @@
-# Hitesh Seth
+## Hitesh Seth
 https://www.linkedin.com/in/hiteshseth | +1-609-610-4861  | hitesh.seth@gmail.com
 
-## TL;DR
+### TL;DR
 - I architect global large-scale technology transformations. I thrive in complexity ⇒ I have a passionate drive to simplify it.
 - I am an expert in applying CRM, Data & AI platforms at scale, in regulated industries.
-- Currently, laser-focused on getting CRM (Sales, Servicing, Marketing) Agentic capabilities, built on a Data & AI foundation, live at scale in production within the largest/complex customers in regulated industries - Financial Services & Insurance, and to some extent Life Sciences & Healthcare.
-- **Mentor**: Very passionate about learning/teaching, particualarly Women in Computing after my experiences [attending Grace Hopper Conference](https://www.linkedin.com/pulse/what-i-learnt-grace-hopper-celebration-2018-hitesh-seth/) and interacting with my daughter and her circle of friends...
+- Currently, I am laser-focused on getting CRM (Sales, Servicing, Marketing) Agentic capabilities, built on a Data & AI foundation, live at scale in production within the largest/complex customers in regulated industries - Financial Services & Insurance, and to some extent Life Sciences & Healthcare.
+- **Mentor**: Very passionate about learning/teaching, particularly Women in Computing after my experiences [attending Grace Hopper Conference](https://www.linkedin.com/pulse/what-i-learnt-grace-hopper-celebration-2018-hitesh-seth/) and interacting with my daughter and her circle of friends...
 - I am a grounded, hands-on technologist, a rapid and forever learner, a strategic big-picture thinker, and a pragmatic innovator who can rapidly crystallize concepts into products and platforms. I am passionate about learning, building, coaching, and enabling high-performance teams to thrive in an agile product-centric culture.
 - I bring a fresh, outside-in perspective to help understand and solve the core technology challenges to create & deliver genuinely transformative experiences, products, and ecosystems.
 
-## Salesforce
-### Chief Architect, Financial Services & Insurance (2024 - )
-- As Chief Architect for Financial Services & Insurance, I am responsible for the solution architecture for our products, working closely with key customers around the world. My primary focus is on integrating customer-facing CRM capabilities—such as Sales, Marketing, Onboarding, and Servicing (Contact Center) with Data, AI/ML and GenAI/Agent platforms. 
+### Salesforce: Chief Solution Architect (2024 - )
+- Responsible for the solution architecture for our products, working closely with key customers around the world. My primary focus is on integrating customer-facing CRM capabilities—such as Sales, Marketing, Onboarding, and Servicing (Contact Center) with Data, AI/ML, and GenAI/Agent platforms. 
 - Partner with our key Financial Services customers (globally) to understand their key CRM/Data/AI implementations, map out current-state and target state architecture, identify challenges and opportunities, and design 6-18 month roadmaps. We work to optimize the implementation and integration of Salesforce technologies with core systems.
-- Engage with senior leaders of our largest/most-complex customers to map out their current and planned investments to ensure that they have an aggressive but achievable roadmap that drives business value in the core CRM capabilities - Sales, Servicing, Marketing, built on a foundation of hetrogenous Data & AI/ML platforms.
-- With a specific focus on Data & AI/GenAI/Agents, understand the current capabilities/architecture of the entire enterprise, with a specific emphasis on Data & AI platforms, and layout a target state architecture of how predictive & Generative AI, particularly Agents, capabilities can be leveraged to power the customer and colleague facing experiences.
+- Engage with senior leaders of our largest/most-complex customers to map out their current and planned investments to ensure that they have an aggressive but achievable roadmap that drives business value in the core CRM capabilities - Sales, Servicing, Marketing, built on a foundation of heterogeneous Data & AI/ML platforms.
+- With a specific focus on Data & AI/GenAI/Agents, understand the current capabilities/architecture of the entire enterprise, with a specific emphasis on Data & AI platforms, and lay out a target state architecture of how predictive & Generative AI, particularly Agents, capabilities can be leveraged to power the customer and colleague-facing experiences.
 - In addition to the "core" Retail & Commercial Banking, Payments, currently focusing a lot on applying Agentic AI and data platforms to create the next generation customer experiences in Wealth Management, Investment Banking, Capital Markets, Insurance & Fintech.
 - As the voice of the customer, I amplify their needs, becoming the connective tissue between customers and the  multiple Salesforce product teams, helping shape our product development and integration strategies.
-- Work closely with Salesforce Ventures teams for investing, acquisition and integration of startups/Fintechs to shape the product and partner ecosystem integrqtion roadmap. 
-- Joined Salesforce as I wanted to contribute and fast learn about other Financial Services (outside of retail banking/financial services, payments, card network, merchant services, loyalty - which I am a true expert of) but I wanted learn Private Equity, Capital Markets, Investment Banking and other regulated industries.
+- Work closely with Salesforce Ventures teams for investing, acquisition, and integration of startups/Fintechs to shape the product and partner ecosystem integration roadmap. 
+- Joined Salesforce as I wanted to contribute and fast learn about other Financial Services (outside of retail banking/financial services, payments, card network, merchant services, loyalty - which I am a true expert of), but I wanted to learn Private Equity, Capital Markets, Investment Banking, and other regulated industries.
 
-## JPMorgan Chase, NYC
-### Managing Director, Chase Data, AI/ML Platforms Architecture & Engineering (2022 - 2024)
-- Ran Data, AI/ML Architecture, Strategy & Engineering at Chase, responsible for End-to-End architecture, technology strategy, and cloud-native transformation and migration for Chase Consumer and Community Banking (CCB) Data Platforms and products. This integrated suite of products is the core foundation of multiple product lines including, Consumer Banking, Small Business Banking, Credit Cards, Connected Commerce, Auto Finance, Home Finance, and Chase Wealth Management.
+## JPMorgan Chase: Managing Director, Chase Data, AI/ML Platforms Architecture & Engineering (2022 - 2024)
+- Ran Data, AI/ML Architecture, Strategy & Engineering at Chase, responsible for End-to-End architecture, technology strategy, and cloud-native transformation and migration for Chase Consumer and Community Banking (CCB) Data Platforms and products. This integrated suite of products is the core foundation of multiple product lines, including Consumer Banking, Small Business Banking, Credit Cards, Connected Commerce, Auto Finance, Home Finance, and Chase Wealth Management.
 - Designed & Built products for data ingestion, transformation, processing, warehousing, stream ingestion, and stream processing capabilities across CCB.
-- Led a team of 120+ engineers and architects focused on Data Engineering & AI/ML; Change the culture to become hands-on “show’n’tell” themes. Hired several individuals across US and India to change the talent skillset in the team. 
+- Led a team of 120+ engineers and architects focused on Data Engineering & AI/ML; changed the culture to become hands-on “show’n’tell” themes. Hired several individuals across US and India to change the talent skillset in the team. 
 - Run AI/ML Technology Strategy for Chase to converge AI/ML capabilities across several product lines.
 - Second tenure at Chase; earlier (2003-06) worked on the Bank One merger, Online Banking, Payments, Channel Convergence, etc.
 
@@ -32,32 +30,32 @@ https://www.linkedin.com/in/hiteshseth | +1-609-610-4861  | hitesh.seth@gmail.co
 ### Vice President, Enterprise Architecture & AI/ML Platforms (2020-2022)
 - Scaled and implemented IQVIA’s Decentralized Clinical Trial product (built on top of Salesforce Health Cloud and Marketing Cloud), which managed the end-to-end patient recruitment and engagement (incl. qualification/screening, consent, randomization, dosing, and follow-up visits). Several sponsors leveraged this platform for some of the most extensive Clinical Trials in the R&D industry (e.g., COVID-19 Vaccines and other therapeutic areas), enrolling more than 300,000 trial participants in 40+ countries.
 - Led the design and implementation of a hybrid cloud-native and microservices-based global AI/ML product that supports several large-scale clinical use cases/applications: multi-faceted domain-specific digitization, translations, and classification of clinical trial documents, semantic document content extraction, comparison & translation, remote participant and site risk monitoring, connected devices data ingestion, processing, aggregation, and analytics.
-- Clinical Data Analytics Suite: Azure/AWS-based clinical data analytics product that unifies and streamlines access to structured and unstructured data from global clinical trials, creating a scalable repository that helps meet regulatory requirements for stakeholders to manage operational and clinical data. The data suite is a backbone to IQVIA’s Orchestrated Clinical Trial platform, enabling interoperability and integration with the entire clinical ecosystems (including CTMS, EDC, eTMF, RBM, Labs, Connected Devices, etc.) to drive predictive analytics, reduce risks, and enhancing patient safety, through smarter actionable decisions across all aspects of a clinical trial.
+- Clinical Data Analytics Suite: Azure/AWS-based clinical data analytics product that unifies and streamlines access to structured and unstructured data from global clinical trials, creating a scalable repository that helps meet regulatory requirements for stakeholders to manage operational and clinical data. The data suite is a backbone to IQVIA’s Orchestrated Clinical Trial platform, enabling interoperability and integration with the entire clinical ecosystems (including CTMS, EDC, eTMF, RBM, Labs, Connected Devices, etc.) to drive predictive analytics, reduce risks, and enhance patient safety, through smarter actionable decisions across all aspects of a clinical trial.
 - Leading the digital transformation, reengineering, and rewrite of several legacy platforms/products to be developed as cloud-based SaaS platforms leveraging cloud-native, scalable data & intelligence platforms.
 - Run the Customer Experience Studio - designing next-generation patient, site, and CRA experiences.
-- I have a deep passion in applying Data/AI/ML experience on medicine, thats why I joined IQVIA, and enjoyed my time supporting bringing COVID vaccines to market in record time... but then realized that the company was a relatively slow moving and rather not aggressive (in-terms of investments) organization without the urgency of COVID... I wrote this [LinkedIn post](https://www.linkedin.com/posts/hiteshseth_thankyou-activity-6969720217895628801-4Ov4/) after I left IQVIA.
+- I have a deep passion in applying Data/AI/ML experience on medicine, that's why I joined IQVIA, and enjoyed my time supporting bringing COVID vaccines to market in record time... but then realized that the company was a relatively slow-moving and rather not aggressive (in terms of investments) organization without the urgency of COVID... I wrote this [LinkedIn post](https://www.linkedin.com/posts/hiteshseth_thankyou-activity-6969720217895628801-4Ov4/) after I left IQVIA.
 
 ## American Express, NYC
 ### Chief Architect, Global Commercial Services, Salesforce.com, Risk, Customer Acquisition & Customer 360 (2015-2020)
-- Anchored large-scale platform transformations in Commercial Payments, Supplier Payments, F/X Payments, Customer Acquisitions, Customer 360 and CRM, and Global Credit Risk to deliver modern global, cloud-native, microservices-based, API-First, integrated, intelligent (ML driven) responsive customer experiences.
+- Anchored large-scale platform transformations in Commercial Payments, Supplier Payments, F/X Payments, Customer Acquisitions, Customer 360 and CRM, and Global Credit Risk to deliver modern global, cloud-native, microservices-based, API-First, integrated, intelligent (ML-driven) responsive customer experiences.
 - Led the creation of the Customer 360 product across the global enterprise to connect the various financial accounts and customer relationships to discover hidden patterns and linkages crucial to support a range of marketing and risk capabilities.
 - Led the platform convergence of a disparate set of payment processing capabilities (card payments, tokenized card payments, F/X payments, bank transfers, check payments, etc.) to power a B2B payments API-first product ecosystem, powering small and large organizations to integrate their internal capabilities and cloud-based platforms with a range of commercial payments capabilities.
 - Led a large-scale transformation for a single, unified, and integrated commercial Salesforce-based CRM; Transformed the end-to-end sales & account development journey: enriched prospects using Machine Learning enriched pipelines; assigned/action leads and opportunities; onboard customers; enabled a complete view of the customers and their relationships; transparent calculation of sales incentives to foster a deep engagement with prospects and customers.
 - Led the architecture of a global marketing campaign management platform built on top of Salesforce.com and Marketing Cloud to enable marketers to design, create, target, and execute multi-channel campaigns across the enterprise.
-- Led the design/development of a GrapQL-based API & Kafka-based integration architecture to decouple the integration of SaaS/cloud-based applications with internal platforms.
+- Led the design/development of a GraphQL-based API & Kafka-based integration architecture to decouple the integration of SaaS/cloud-based applications with internal platforms.
 - Transformed the commercial data platform from a data warehouse + reporting stack to a modern Hadoop/Spark-based distributed data processing and enrichment platform to deliver commercial insights across channels (web, call center, IVR)
 - Transformed the core commercial payment products to be modern and responsive. Built on top of a modular, cloud-native, API-based platform and powered with a proper CI/CD pipeline to rapidly test & learn, and deliver engaging CX.
-- Created a hands-on architecture practice across the engineering teams to lay the foundation for the federated creation of microservices-based architecture, using modern technologies like events, APIs, caching, high availability, Docker/Kubernetes/OpenStack based cloud infrastructure, NoSQL/Couchbase, etc. Defined a set of “grounded” principles and a structured approach to transforming existing/legacy applications into more cloud-native, microservices-styled modular components implemented in an end-to-end CI/CD pipeline using blue/green deployments & feature toggles
+- Created a hands-on architecture practice across the engineering teams to lay the foundation for the federated creation of microservices-based architecture, using modern technologies like events, APIs, caching, high availability, Docker/Kubernetes/OpenStack-based cloud infrastructure, NoSQL/Couchbase, etc. Defined a set of “grounded” principles and a structured approach to transforming existing/legacy applications into more cloud-native, microservices-style,d modular components implemented in an end-to-end CI/CD pipeline using blue/green deployments & feature toggles
 - Led catalyst engineers who apply cutting-edge emerging technologies to constantly create/prototype new ideas and initial implementations to drive changes in our core platforms. Mentor, inspire the architecture and engineering team to become very detailed and technology-oriented, and understand that technical skills are fundamental in enabling us to transform the world of commercial payments.
 - Evangelized the integrated usage of machine learning technologies
   
 ### VP, Mergers & Acquisition Technologies (American Express, NYC) (2008-2014)
 - Led technology due diligence for the acquisitions of Loyalty Partners, Accertify, Revolution Money, and Sometrics.
 - Led the technology due diligence and integration with American Express on several payments, commerce, fraud prevention, and data analytics startups such as Stripe, iZettle.
-- **Global Business Travel Joint Venture**: Led the End-to-end tech workstream to plan the separation of the Global Business Travel (GBT) business to form a $1B+ JV - including TSA, DAY 1/Day1.5 separation activities, the structure of the technology organization.
+- **Global Business Travel Joint Venture**: Led the End-to-end tech workstream to plan the separation of the Global Business Travel (GBT) business to form a $1B+ JV - including TSA, DAY 1/Day1.5 separation activities, and the structure of the technology organization.
 
 #### Director, Technology Strategy and Applied Innovation (American Express, NYC) (2006-2008)
-- Ran an incubation lab to assess and prototype innovation ideas to grow American Express business.
+- Ran an incubation lab to assess and prototype innovation ideas to grow American Express' business.
 - Led the creation of an API and services platform to open the capabilities to developers, merchants, and other users.
 - Took several ideas from concept to implementation in mobile payments and mobile commerce domains.
 - Led Enterprise Technology Roadmap, a 3-year Enterprise IT Strategy to enable American Express to be a leader in Rich Internet Applications, B2B Integration, Service Enablement/SOA, and Business Intelligence.
@@ -89,12 +87,12 @@ https://www.linkedin.com/in/hiteshseth | +1-609-610-4861  | hitesh.seth@gmail.co
 
 **1996 - 1997**  
 **Senior Software Engineer (Wipro Systems, India)**
-- Among the first Java developers, worked on porting Corel Office suite in Java and building a distributed project management system using Java/RMI/CORBA.
+- Among the first Java developers, worked on porting the Corel Office suite to Java and building a distributed project management system using Java/RMI/CORBA.
 - Taught Java development to seasoned engineers.
 
 ## Education
 **Indian Institute of Technology (IIT), Kanpur (India)**  
-- Bachelors of Technology - Chemical Engg & Computer Science (1992-96): Worked on automating a control system using Visual C++, implementing MIT’s Eigenfaces algorithm for face detection, and applying a neural network (MATLAB) in manufacturing.
+- Bachelor of Technology - Chemical Engg & Computer Science (1992-96): Worked on automating a control system using Visual C++, implementing MIT’s Eigenfaces algorithm for face detection, and applying a neural network (MATLAB) in manufacturing.
 
 ### Publications
 - Author, *Kick Start Microsoft .NET* (SAMS)
