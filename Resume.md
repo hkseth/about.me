@@ -97,7 +97,7 @@ https://www.linkedin.com/in/hiteshseth | +1-609-610-4861  | hitesh.seth@gmail.co
 
 ### Publications
 - [Special Edition using Java Beans](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604)
-- [Microsoft .NET KickStart] (https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748/)
+- [Microsoft .NET KickStart](https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748/)
 - Editor-in-Chief, XML Journal – edited/wrote several articles
 
 ### Current Speaking Engagements
