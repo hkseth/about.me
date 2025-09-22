@@ -16,32 +16,22 @@
 ### JPMorgan Chase: Managing Director, Chase Data, AI/ML Platforms Architecture & Engineering (2022 - 2024)
 - Led the end-to-end architecture, technology strategy, and **cloud-native transformation** for Chase’s Consumer and Community Banking (CCB) Data Platforms.
 - Oversaw an integrated suite of data products foundational to multiple business lines, including Consumer Banking, Credit Cards, and Wealth Management.
-- Led a team of \~100 engineers and architects, driving a culture of hands-on, "show'n'tell" execution and strategically hiring talent to evolve team skillsets.
+- Led a team of \~100+ engineers and architects, driving a culture of hands-on, "show'n'tell" execution and strategically hiring talent to evolve team skillsets.
 - Developed the **AI/ML Technology Strategy** for Chase, converging capabilities across multiple product lines to streamline operations and enhance performance.
 
-### IQVIA: VP, Enterprise Architecture & AI/ML Platforms (2020-2022)
+### IQVIA: VP: Chief Architect, UI/UX Design & AI/ML Platforms (2020-2022)
 - Scaled and implemented a decentralized clinical trial product that supported some of the largest clinical trials in history, including **COVID-19 vaccine trials**, enrolling over 300,000 participants globally.
 - Designed and led the implementation of a hybrid, cloud-native AI/ML product supporting large-scale clinical use cases, including document digitization, semantic content extraction, and remote patient monitoring.
 - Architected a clinical data analytics suite on Azure/AWS that unified structured and unstructured data, enabling **predictive analytics** to reduce risk and enhance patient safety in clinical trials.
 - Led the digital transformation and re-engineering of legacy platforms into cloud-based SaaS solutions.
+- Led a team of 50+ architects, AI/ML Engineers, Data Scientists, and UI/UX Designers for R&D
 
-### American Express (2006-2020)
-#### Chief Architect, Global Commercial Services & Customer 360 | (2015-2020)
-- Anchored large-scale platform transformations for Commercial Payments and Customer 360, delivering modern, cloud-native, API-first, and ML-driven customer experiences.
-- Created the enterprise-wide **Customer 360 product**, connecting financial accounts and relationships to discover hidden patterns for enhanced marketing and risk management.
-- Led the platform convergence of disparate payment capabilities (card, F/X, bank transfers) into a unified, **API-first B2B payments ecosystem**.
-- Transformed the commercial data platform from a traditional data warehouse to a modern distributed processing platform (Hadoop/Spark) to deliver real-time commercial insights.
-- Evangelized and implemented a **federated microservices architecture**, defining “grounded” principles for transitioning legacy applications to a cloud-native, CI/CD-enabled model.
+### American Express: Chief Architect, Global Commercial Services & Customer 360 | (2006-2020)
+- I spent 14 years at American Express running architecture for several businesses/units, including Global Commercial Payments, Marketing, Customer 360, Customer Acquisitions, Global Credit & Fraud Risk Management, Salesforce, AskAmex, Big Data & AI/ML Platform capabilities, etc.
+- AmEx was an early adopter of Big Data (Hadoop technologies) and I have been engaged in productionalizing Data/ML capabilities at scale since 2009 or so when we implemented our first set of ML models (Random Forrests, gradient boosting, etc...) all the way to scaling many large scale champion/challenge models at scale supporting marketing, credit/fraud risk and servicing capabilities.
+- Led the technology due diligence for many M&A/Strategic Investments, working with startups like Stripe, iZettle, etc., and acquisitions of adjacent capabilities (Loyalty Partner - collation loyalty, P2P/Mobile Payments - fraud risk management - Accertify, Resy & Cake Technologies - premium dining, LoungeBuddy - airport lounges). Led the technology spinoff of American Express Business Travel. I worked with several adjacent mobile payments players in China, India, and Europe.
 
-#### VP, Mergers & Acquisition Technologies | (2008-2014)
-- Led technology due diligence and integration for several key acquisitions (Loyalty Partners, Accertify, Revolution Money, Sometrics, Resy) and investments (Stripe, iZettle, Plaid, …).
-- Spearheaded the technology workstream for the separation of the Global Business Travel business, forming a $1B+ joint venture.
-
-#### Director, Technology Strategy and Applied Innovation | (2006-2008)
-- Managed an incubation lab for prototyping innovative ideas, including the creation of an API and services platform to open capabilities to developers.
-- Drove the 3-year enterprise IT strategy to position American Express as a leader in rich internet applications, B2B integration, and business intelligence.
-
-### JPMorgan Chase: Senior eBusiness Architect | (2003-2006)
+### JPMorgan Chase: Senior eBusiness Architect (2003-2006)
 - Led the integration of the JPMorgan Chase & Bank One merger for “chase.com”. Included assessment of applications, talent, and platform selection.
 - Architected a web-services-based middleware platform to unify retail financial services
 - Led the design and implementation of identity management for customers across the bank as a shared service.
