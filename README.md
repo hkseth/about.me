@@ -25,26 +25,22 @@
   - Architected a clinical data analytics suite on Azure/AWS that unified structured and unstructured data, enabling **predictive analytics** to reduce risk and enhance patient safety in clinical trials.
   - Led the digital transformation and re-engineering of legacy platforms into cloud-based SaaS solutions.
 
-**American Express****
-**Chief Architect, Global Commercial Services & Customer 360 | (2015-2020)
-
+### American Express (2006-2020)
+#### Chief Architect, Global Commercial Services & Customer 360 | (2015-2020)
   - Anchored large-scale platform transformations for Commercial Payments and Customer 360, delivering modern, cloud-native, API-first, and ML-driven customer experiences.
   - Created the enterprise-wide **Customer 360 product**, connecting financial accounts and relationships to discover hidden patterns for enhanced marketing and risk management.
   - Led the platform convergence of disparate payment capabilities (card, F/X, bank transfers) into a unified, **API-first B2B payments ecosystem**.
   - Transformed the commercial data platform from a traditional data warehouse to a modern distributed processing platform (Hadoop/Spark) to deliver real-time commercial insights.
   - Evangelized and implemented a **federated microservices architecture**, defining “grounded” principles for transitioning legacy applications to a cloud-native, CI/CD-enabled model.
-
-VP, Mergers & Acquisition Technologies | (2008-2014)
-
+#### VP, Mergers & Acquisition Technologies | (2008-2014)
   - Led technology due diligence and integration for several key acquisitions (Loyalty Partners, Accertify) and partnerships (Stripe, iZettle, …).
   - Spearheaded the technology workstream for the separation of the Global Business Travel business, forming a $1B+ joint venture.
 
-Director, Technology Strategy and Applied Innovation | (2006-2008)
-
+#### Director, Technology Strategy and Applied Innovation | (2006-2008)
   - Managed an incubation lab for prototyping innovative ideas, including the creation of an API and services platform to open capabilities to developers.
   - Drove the 3-year enterprise IT strategy to position American Express as a leader in rich internet applications, B2B integration, and business intelligence.
 
-**JPMorgan Chase** | Senior eBusiness Architect | (2003-2006)
+### JPMorgan Chase: Senior eBusiness Architect | (2003-2006)
 
   - Led the integration of the JPMorgan Chase & Bank One merger for “chase.com”. Included assessment of applications, talent, and platform selection.
   - Architected a web-services-based middleware platform to unify retail financial services
