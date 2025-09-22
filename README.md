@@ -34,7 +34,7 @@
 - Evangelized and implemented a **federated microservices architecture**, defining “grounded” principles for transitioning legacy applications to a cloud-native, CI/CD-enabled model.
 
 #### VP, Mergers & Acquisition Technologies | (2008-2014)
-- Led technology due diligence and integration for several key acquisitions (Loyalty Partners, Accertify) and partnerships (Stripe, iZettle, …).
+- Led technology due diligence and integration for several key acquisitions (Loyalty Partners, Accertify, Revolution Money, Sometrics, Resy) and investments (Stripe, iZettle, Plaid, …).
 - Spearheaded the technology workstream for the separation of the Global Business Travel business, forming a $1B+ joint venture.
 
 #### Director, Technology Strategy and Applied Innovation | (2006-2008)
