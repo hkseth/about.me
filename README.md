@@ -65,5 +65,5 @@
 - Sep 2025: [AI Tech Leaders' Club](https://luma.com/mq1948jl) - Enterprise AI & Operational Efficiency
 - Oct 2025: [Innodata GenAI Summit](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda) - Defining and ensuring "high-quality data” in the context of modern AI systems
 - Oct 2025: [Quantum + AI 2.0 2025](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA) - Beyond PQC: Quantum Computing & the future of Blockchain Security.
-- Oct 2025: [Super AI/ML Summit with NYC Mayor]() - Rise of Agemts
+- Oct 2025: [Super AI/ML Summit with NYC Mayor](https://www.linkedin.com/posts/hiteshseth_looking-forward-to-speaking-at-the-annual-activity-7389536955392290816-uzug) - Rise of Agents
 - Nov 2025: [AI Driven Drug Discovery Summit](https://www.aidrivendrugdevelopment.com/events/ai-drug-discovery-development-summit)
