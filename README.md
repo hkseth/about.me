@@ -7,7 +7,9 @@
 
 <p align="center">
   <a href="https://adisutra.ai">🌐 adisutra.ai</a> ·
-  <a href="https://linkedin.com/in/hiteshseth">💼 LinkedIn</a>
+  <a href="https://linkedin.com/in/hiteshseth">💼 LinkedIn</a> ·
+  <a href="https://x.com/hitech">𝕏 @hitech</a> ·
+  <a href="https://substack.com/@hiteshseth">📝 Substack</a>
 </p>
 
 ---
